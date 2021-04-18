@@ -1,0 +1,13 @@
+name: simple_udp_stream_recaster
+version: 0.1.0
+
+authors:
+  - DannyAAM <danny@saru.moe>
+
+targets:
+  recaster:
+    main: src/recaster.cr
+
+crystal: 1.0.0
+
+license: MIT

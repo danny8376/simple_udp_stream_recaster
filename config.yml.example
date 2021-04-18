@@ -1,0 +1,2 @@
+<LISTEN_PORT>:
+  - udp://<TARGET_ADDR>:<TARGET_PORT>
